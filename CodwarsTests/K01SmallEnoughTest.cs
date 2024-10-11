@@ -1,8 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Codewars.Katas;
 
 namespace CodwarsTests
 {
-    public class SmallEnoughTest : K01SmallEnough
+    public class K01SmallEnoughTest : K01SmallEnough
     {
         [Fact]
         public void BasicTests()

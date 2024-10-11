@@ -14,7 +14,7 @@ namespace Codewars.Katas
             // létrehozunk egy bool t. változót, amiben a végeredményt fogjuk tárolni
             bool result = true;
 
-            // ciklussal bejárjuk a tömböt
+            // for ciklussal bejárjuk a tömböt
             for (int i = 0; i < a.Length; i++)
             {
                 // megvizsgáljuk az adott elemet, hogy nagyobb-e a limitnél
