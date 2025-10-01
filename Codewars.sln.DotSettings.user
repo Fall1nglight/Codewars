@@ -1,7 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0bd2308c_002Dee9f_002D430c_002Dbe8f_002D2b6427f82d78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests.Tests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._8kyus.Tests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;A8E209B3-E6D9-461A-8EB1-E03304EA1E48/d:8kyus/f:SquareNSumTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.ArrayDifferenceTest.SampleTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;A8E209B3-E6D9-461A-8EB1-E03304EA1E48/d:6kyus/f:ArrayDifferenceTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
