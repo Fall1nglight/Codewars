@@ -2,6 +2,8 @@
 
 using static Codewars._8kyus.SquareNSum;
 
+// https://www.codewars.com/kata/515e271a311df0350d00000f
+
 [TestFixture]
 public class Tests
 {
