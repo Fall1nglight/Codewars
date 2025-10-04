@@ -9,7 +9,9 @@
       &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.ReplaceWithAlphabetPositionTest.SampleTest&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.CustomXmasTreeTest.BasicTest&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.CustomXmasTreeTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.TribonacciSequenceTest.Tests&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;ProjectFile&gt;A8E209B3-E6D9-461A-8EB1-E03304EA1E48/d:6kyus/f:ArrayDifferenceTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;A8E209B3-E6D9-461A-8EB1-E03304EA1E48/d:6kyus/f:TribonacciSequenceTest.cs&lt;/ProjectFile&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
