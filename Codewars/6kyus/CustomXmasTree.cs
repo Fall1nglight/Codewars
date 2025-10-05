@@ -2,6 +2,8 @@
 
 namespace Codewars._6kyus;
 
+// https://www.codewars.com/kata/5a405ba4e1ce0e1d7800012e
+
 public class CustomXmasTree
 {
     public static string CustomChristmasTree(string chars, int n)

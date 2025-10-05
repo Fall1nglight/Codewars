@@ -2,8 +2,10 @@
 //
 // namespace Tests._6kyus;
 //
+// // https://www.codewars.com/kata/58b57ae2724e3c63df000006
+//
 // [TestFixture]
-// public class SimpleHtmlColorParserTest
+// public class HtmlColorParserTest
 // {
 //     // test cannot be used due to DI
 //     private readonly HtmlColorParser parser = new HtmlColorParser(PresetColors.Map);

@@ -2,6 +2,8 @@
 
 namespace Tests._6kyus;
 
+// https://www.codewars.com/kata/556deca17c58da83c00002db
+
 [TestFixture]
 public class TribonacciSequenceTest
 {

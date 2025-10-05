@@ -1,5 +1,7 @@
 ﻿namespace Codewars._6kyus;
 
+// https://www.codewars.com/kata/556deca17c58da83c00002db
+
 public class TribonacciSequence
 {
     public double[] Tribonacci(double[] signature, int n)
@@ -19,6 +21,7 @@ public class TribonacciSequence
 
         return result;
 
+        // old solution
         // double[] result = new double[n < 4 ? 3 + n : n];
         //
         // result[0] = signature[0];

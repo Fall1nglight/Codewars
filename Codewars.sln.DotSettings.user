@@ -1,6 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003AC_0021_003FUsers_003FSzabolcs_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fd6eacc30f73c491c94ae7625a65c78ac77a00_003Fdf_003Fe2e95b33_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AList_002Ecs_002Fl_003AC_0021_003FUsers_003FSzabolcs_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fb7208b3f72528d22781d25fde9a55271bdf2b5aade4f03b1324579a25493cd8_003FList_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003AC_0021_003FUsers_003FSzabolcs_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fd882146b4f265f10bcbec2663fce248db9ffec5fa1aeaf76e32a11ba5eafcd6_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0bd2308c_002Dee9f_002D430c_002Dbe8f_002D2b6427f82d78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Or&gt;&#xD;
     &lt;ProjectFile&gt;A8E209B3-E6D9-461A-8EB1-E03304EA1E48/d:8kyus/f:SquareNSumTest.cs&lt;/ProjectFile&gt;&#xD;
@@ -10,6 +11,8 @@
       &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.CustomXmasTreeTest.BasicTest&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.CustomXmasTreeTest&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.TribonacciSequenceTest.Tests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.UniqueInOrderTest.EmptyTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::A8E209B3-E6D9-461A-8EB1-E03304EA1E48::net8.0::Tests._6kyus.UniqueInOrderTest&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;ProjectFile&gt;A8E209B3-E6D9-461A-8EB1-E03304EA1E48/d:6kyus/f:ArrayDifferenceTest.cs&lt;/ProjectFile&gt;&#xD;
     &lt;ProjectFile&gt;A8E209B3-E6D9-461A-8EB1-E03304EA1E48/d:6kyus/f:TribonacciSequenceTest.cs&lt;/ProjectFile&gt;&#xD;

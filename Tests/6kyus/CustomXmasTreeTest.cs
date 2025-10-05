@@ -2,6 +2,8 @@
 
 namespace Tests._6kyus;
 
+// https://www.codewars.com/kata/5a405ba4e1ce0e1d7800012e
+
 [TestFixture]
 public class CustomXmasTreeTest
 {
