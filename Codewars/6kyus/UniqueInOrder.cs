@@ -28,5 +28,27 @@ public class UniqueInOrder
         }
 
         return result;
+
+        // other solution
+        // ReSharper disable once PossibleMultipleEnumeration
+        // using (var enumerator = iterable.GetEnumerator())
+        // {
+        //     if (!enumerator.MoveNext())
+        //         yield break;
+        //
+        //     T previous = enumerator.Current;
+        //     yield return previous;
+        //
+        //     while (enumerator.MoveNext())
+        //     {
+        //         T current = enumerator.Current;
+        //
+        //         while (!EqualityComparer<T>.Default.Equals(previous, current))
+        //         {
+        //             yield return current;
+        //             previous = current;
+        //         }
+        //     }
+        // }
     }
 }
