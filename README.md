@@ -38,15 +38,4 @@ Ez a projekt a folyamatos tanulásra és a programozási kihívások leküzdés�
 
 ---
 
-## 💻 Repository Tartalma
-
-A feladatok mappákba vannak szervezve a nehézségi szint (Kyu) és/vagy a megoldáshoz használt nyelv alapján.
-
-| Mappa/Elnevezés   | Tartalom                                                      | Nehézségi Szint (Kyu) |
-| :---------------- | :------------------------------------------------------------ | :-------------------- |
-| `8kyu/`           | A bemelegítő, alapvető Kata feladatok.                        | Kezdő                 |
-| `7kyu/`           | Gyakoribb programozási feladatok, egyre komplexebb logikával. | Középhaladó           |
-| `6kyu/`           | Ahol a legtöbb kihívás és optimalizálás megjelenik.           | Haladó                |
-| `[Programnyelv]/` | Opcionálisan nyelv alapján is szeparálhatók a megoldások.     | Változó               |
-
 A repository folyamatosan frissül új megoldásokkal. Örömmel fogadok visszajelzéseket a kódminőséggel vagy alternatív megoldásokkal kapcsolatban!
