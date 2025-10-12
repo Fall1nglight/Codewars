@@ -11,7 +11,7 @@ This project is focused on continuous learning and overcoming programming challe
 ### Key Objectives
 
 - **Algorithmic Skill Development:** Breaking down complex problems and finding efficient solutions.
-- **Language Proficiency:** Utilizing advanced features and best practices of [Programming Language].
+- **Language Proficiency:** Utilizing advanced features and best practices of C#.
 - **Code Quality:** Writing clean, readable, and maintainable code, examining the contrast between "clever" (short) and "readable" (longer) solutions.
 - **Progress Tracking:** Documenting acquired knowledge and progression towards more difficult (higher Kyu level) tasks.
 
@@ -32,7 +32,7 @@ Ez a projekt a folyamatos tanulásra és a programozási kihívások leküzdés�
 ### Fő Célok
 
 - **Algoritmikus Készség Fejlesztése:** Komplex problémák lebontása és hatékony megoldása.
-- **Nyelvi Jártasság Elmélyítése:** A [Programnyelv neve] haladó funkcióinak és a legjobb gyakorlatoknak a kihasználása.
+- **Nyelvi Jártasság Elmélyítése:** A C# haladó funkcióinak és a legjobb gyakorlatoknak a kihasználása.
 - **Kódminőség:** Tiszta, olvasható és karbantartható kód írása, a rövid (clever) és a hosszabb (readable) megoldások kontrasztjának vizsgálata.
 - **Fejlődés Követése:** A megszerzett tudás és a nehezebb (magasabb Kyu szintű) feladatok felé haladás dokumentálása.
 
